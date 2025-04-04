@@ -1,6 +1,5 @@
-# [![GhostCoder Logo](https://img.shields.io/badge/GhostCoder-Logo-blueviolet?style=flat&labelColor=black)](https://ghostcoder.ai) GhostCoder: Potencialize sua Performance com IA Discreta e Inteligente 🚀
 
-**(Baseado nas informações visuais fornecidas)**
+<img width="537" alt="pbqDQ5Ceks" src="https://github.com/user-attachments/assets/c74982c8-78af-4e18-87fe-d1efa39043af" />
 
 ---
 
