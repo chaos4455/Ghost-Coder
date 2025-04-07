@@ -432,6 +432,9 @@ Desenvolvido com ❤️ e ☕ em Maringá, PR.
     *   [💼 LinkedIn](https://linkedin.com/company/ghostcoderai)
     *   [📸 Instagram](https://instagram.com/ghostcoderai)
 
+![chrome_ubxx8Q4OzB](https://github.com/user-attachments/assets/b3418bd7-86c4-4989-aef1-506565767614)
+
+
 ---
 
 *Disclaimer: Este documento foi gerado com base nas imagens fornecidas e na solicitação de substituição de imagens Imgur por badges. Todas as funcionalidades, preços e detalhes estão sujeitos a confirmação no site oficial ghostcoder.ai.*
